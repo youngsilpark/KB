@@ -1,8 +1,5 @@
 def convert_tag_to_name(sentence:str,target="#@이름#",name1_list=None,name2_list=None):
     
-    ## 이름 자동생성기 찾아야 함
-    
-    
     flag=True
     position1=["아","이","은"] #받침 o
     position2=["야","가","는"] #받침 x
