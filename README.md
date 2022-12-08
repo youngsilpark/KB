@@ -41,12 +41,8 @@
 ![image](https://user-images.githubusercontent.com/63226383/206385119-c6887e76-be18-4c6a-ad99-6aa06df1d29d.png)
 
 
-## 2-1. KoBERT
+## 2-1. KoBERT 학습
 [Code(ipynb)](https://github.com/youngsilpark/KB/blob/main/KoBERT/KB_KoBERT.ipynb)
-
-## 2-2. KB-ALBERT
-
-[Code(ipynb)](https://github.com/youngsilpark/KB/tree/main/KB-ALBERT)
 
 
 # 3. 사용 예시
