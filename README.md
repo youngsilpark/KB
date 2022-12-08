@@ -1,4 +1,5 @@
 # NER을 활용한 한국어 개인정보 마스킹 모델
+ 개인간의 대화 및 SNS를 통해 본인도 모르게 유출되는 개인정보를 자동으로 마스킹하여, 개인정보 유출에 의한 피해를 방지하는 모델 작성 프로젝트
 
 # 1. Preparing Dataset
 
@@ -28,4 +29,17 @@
 
 ## 1-2. 데이터 전처리 및 생성
   - [Code(ipynb)](https://github.com/youngsilpark/KB/blob/main/Preprocessing/KB_data_prep.ipynb.ipynb)
+
+
+# 2. NER Modeling
+
+![image](https://user-images.githubusercontent.com/63226383/206385072-2098ab60-9eb1-40fa-aefe-99d89688e833.png)
+
+![image](https://user-images.githubusercontent.com/63226383/206385119-c6887e76-be18-4c6a-ad99-6aa06df1d29d.png)
+
+
+# 2-1. KoBERT
+
+
+
 
