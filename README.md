@@ -47,7 +47,7 @@
 
 # 3. 사용 예시
 
-![image](https://user-images.githubusercontent.com/63226383/206389024-d03152c0-764d-4e01-a19f-9c6271dd05f9.png)
+![image](https://user-images.githubusercontent.com/63226383/206389596-7414c8bc-8167-44e8-9af1-9237b70cf9ac.png)
 
 
 
