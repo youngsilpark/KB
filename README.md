@@ -42,7 +42,7 @@
 
 
 ## 2-1. KoBERT
-[code](https://github.com/youngsilpark/KB/blob/main/KoBERT/KB_KoBERT.ipynb)
+[Code(ipynb)](https://github.com/youngsilpark/KB/blob/main/KoBERT/KB_KoBERT.ipynb)
 
 
 # References
