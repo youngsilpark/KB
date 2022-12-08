@@ -38,8 +38,12 @@
 ![image](https://user-images.githubusercontent.com/63226383/206385119-c6887e76-be18-4c6a-ad99-6aa06df1d29d.png)
 
 
-# 2-1. KoBERT
+## 2-1. KoBERT
 
+
+# References
+- [Monologg KoBERT-NER](https://github.com/monologg/KoBERT-NER)
+- [AIHUB](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=114)
 
 
 
