@@ -27,5 +27,5 @@
 
 
 ## 1-2. 데이터 전처리 및 생성
-  - 
+  - [Code(ipynb)](https://github.com/youngsilpark/KB/blob/main/Preprocessing/KB_data_prep.ipynb.ipynb)
 
