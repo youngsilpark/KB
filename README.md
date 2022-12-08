@@ -44,6 +44,16 @@
 ## 2-1. KoBERT
 [Code(ipynb)](https://github.com/youngsilpark/KB/blob/main/KoBERT/KB_KoBERT.ipynb)
 
+## 2-2. KB-ALBERT
+
+[Code(ipynb)](https://github.com/youngsilpark/KB/tree/main/KB-ALBERT)
+
+
+# 3. 사용 예시
+
+![image](https://user-images.githubusercontent.com/63226383/206389024-d03152c0-764d-4e01-a19f-9c6271dd05f9.png)
+
+
 
 # References
 - [Monologg KoBERT-NER](https://github.com/monologg/KoBERT-NER)
