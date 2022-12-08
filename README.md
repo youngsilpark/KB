@@ -3,12 +3,15 @@
 
 # 1. Preparing Dataset
 
-- [AI HUB 한국어 SNS 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=114)
+- [AI HUB 한국어 SNS 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=114)  
+  수집된 SNS 대화 데이터에서 개인정보에 해당하는 부분을 익명화 및 비식별화 처리한 데이터셋
 
 ![image](https://user-images.githubusercontent.com/63226383/206382292-0cd40ad6-b885-43fd-aa7c-e2e0b0e40070.png)
 
 
-## 1-1. 마스킹 카테고리 선택 및 데이터 생성 전략
+## 1-1. 마스킹 카테고리 선택 및 개인정보 데이터 생성 전략
+  익명화 처리된 개인정보를 역으로 재생성
+
  1) 이름  
   : 받침에 따라 가상 이름 생성
  2) 계정  
